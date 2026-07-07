@@ -19,4 +19,4 @@
 
 ## Files
 - Sales-Dashboard.pbix
-- Super-store.csv
+- Sample_Superstore.csv
