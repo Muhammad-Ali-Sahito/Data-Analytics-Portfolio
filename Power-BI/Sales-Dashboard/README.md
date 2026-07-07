@@ -17,4 +17,4 @@
 
 ## Files
 - Sales-Dashboard.pbix
-- Superstore.xlsx
+- Superstore.csv
