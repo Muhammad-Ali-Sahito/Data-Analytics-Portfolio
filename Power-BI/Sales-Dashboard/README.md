@@ -2,7 +2,6 @@
 
 ## Tools Used
 - Power BI
-- Exc
 
 ## KPIs
 - Total Sales
@@ -20,4 +19,4 @@
 
 ## Files
 - Sales-Dashboard.pbix
-- Superstore.csv
+- Super-store.csv
