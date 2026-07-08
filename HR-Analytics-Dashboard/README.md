@@ -39,7 +39,6 @@ The objective of this dashboard is to analyze employee attrition and workforce t
 
 - Analyzed employee attrition across different departments.
 - Compared attrition by gender and age groups.
-- Identified education fields with higher employee turnover.
 - Analyzed attrition by job role and marital status.
 - Created an interactive dashboard using Power BI.
 
