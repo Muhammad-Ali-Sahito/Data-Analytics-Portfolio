@@ -15,4 +15,4 @@ This folder contains:
 - Task 11
 - Task 12
 
-Certificate will also be uploaded here.
+Certificate & offer latter will also be uploaded here.
