@@ -1,0 +1,21 @@
+Product,Category,Number of Orders,Sales,Available in Stock
+T-shirts,Garment,320,2500,7
+Pants,Garment,420,2600,10
+Speakers,Electronics,520,2700,12
+Keyboards,Electronics,620,3200,9
+Art Prints,Decoration,740,13000,8
+Vases,Decoration,840,14000,11
+Ankle Weights,Fitness,920,8500,15
+Exercise Mats,Fitness,450,4800,18
+Running Sneakers,Footwear,880,31000,20
+Casual Shoes,Footwear,1050,37000,25
+Hoodies,Garment,300,2400,6
+Smartwatches,Electronics,700,6000,15
+Candles,Decoration,600,9000,20
+Dumbbells,Fitness,550,7000,17
+Sandals,Footwear,800,25000,23
+Jackets,Garment,400,3300,9
+Laptops,Electronics,800,25000,30
+Rugs,Decoration,550,8000,18
+Yoga Blocks,Fitness,350,3000,12
+Boots,Footwear,700,28000,21
