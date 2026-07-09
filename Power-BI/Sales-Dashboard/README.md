@@ -2,6 +2,7 @@
 
 ## Tools Used
 - Power BI
+- CSV Dataset
 
 ## KPIs
 - Total Sales
