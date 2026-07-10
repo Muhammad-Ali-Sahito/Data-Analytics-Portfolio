@@ -31,6 +31,7 @@
 
 - hr Employees Dashboard.pbix
 - WA_Fn-UseC_-HR-Employee-Attrition.csv
+- Project Screenshot.pdf
 
 ## Project Objective
 
