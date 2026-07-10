@@ -21,3 +21,4 @@
 ## Files
 - Sales-Dashboard.pbix
 - Sample_Superstore.csv
+- Project_Screenshot.pdf
