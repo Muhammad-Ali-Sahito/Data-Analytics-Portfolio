@@ -7,7 +7,4 @@ This folder contains all my Power BI Dashboard Projects.
 - HR Analytics Dashboard
 - Inventory Dashboard
 - Finance Dashboard
-- Customer Sales Dashboard
-- Superstore Dashboard
-- Marketing Dashboard
-- Executive Dashboard
+- E-Commerce Dashboard
