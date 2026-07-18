@@ -13,7 +13,6 @@ This Power BI dashboard analyzes call center performance using KPI cards, intera
 
 ## Tools Used
 - Power BI
-- Excel
 - DAX
 
 ## Dashboard Features
@@ -23,5 +22,5 @@ This Power BI dashboard analyzes call center performance using KPI cards, intera
 
 ## Files Included
 - Call-Center-Dashboard.pbix
-- Call Center Dataset.xlsx
+- Call Center Dataset.csv
 - Dashboard Screenshots
